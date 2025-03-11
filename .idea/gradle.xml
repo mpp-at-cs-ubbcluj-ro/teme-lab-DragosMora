@@ -6,6 +6,25 @@
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/module1" />
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/module2" />
+        <option name="gradleJvm" value="22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/module2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/module3" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/module3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

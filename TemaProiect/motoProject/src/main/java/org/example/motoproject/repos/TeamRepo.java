@@ -1,4 +1,9 @@
 package org.example.motoproject.repos;
 
-public class TeamRepo {
+import org.example.motoproject.domain.Participant;
+
+/*
+public class TeamRepo implements IRepo<Team, Long>{
+
 }
+*/

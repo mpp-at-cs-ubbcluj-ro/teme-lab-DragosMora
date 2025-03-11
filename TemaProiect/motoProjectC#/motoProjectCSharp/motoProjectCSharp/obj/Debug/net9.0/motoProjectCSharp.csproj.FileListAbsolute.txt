@@ -1,0 +1,15 @@
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/bin/Debug/net9.0/motoProjectCSharp
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/bin/Debug/net9.0/motoProjectCSharp.deps.json
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/bin/Debug/net9.0/motoProjectCSharp.runtimeconfig.json
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/bin/Debug/net9.0/motoProjectCSharp.dll
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/bin/Debug/net9.0/motoProjectCSharp.pdb
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/obj/Debug/net9.0/motoProjectCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/obj/Debug/net9.0/motoProjectCSharp.AssemblyInfoInputs.cache
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/obj/Debug/net9.0/motoProjectCSharp.AssemblyInfo.cs
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/obj/Debug/net9.0/motoProjectCSharp.csproj.CoreCompileInputs.cache
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/obj/Debug/net9.0/motoProjectCSharp.sourcelink.json
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/obj/Debug/net9.0/motoProjectCSharp.dll
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/obj/Debug/net9.0/refint/motoProjectCSharp.dll
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/obj/Debug/net9.0/motoProjectCSharp.pdb
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/obj/Debug/net9.0/motoProjectCSharp.genruntimeconfig.cache
+/Users/dragosmora1/Documents/UBB_INFO/MPP/TemaProiect/motoProjectC#/motoProjectCSharp/motoProjectCSharp/obj/Debug/net9.0/ref/motoProjectCSharp.dll
