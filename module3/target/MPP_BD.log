@@ -1,0 +1,32 @@
+11 Mar 2025 19:21:30,785 INFO  org.example.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:/Users/dragosmora1/Documents/UBB_INFO/MPP/cars.db} 
+11 Mar 2025 19:21:30,790 TRACE org.example.CarsDBRepository 81 add - Enter saving taks: Id=0 Tesla Model S 2019
+11 Mar 2025 19:21:30,791 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 19:21:30,791 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 19:21:30,791 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:/Users/dragosmora1/Documents/UBB_INFO/MPP/cars.db
+11 Mar 2025 19:21:30,791 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 19:21:30,791 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 19:21:31,059 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@69997e9d)
+11 Mar 2025 19:21:31,063 TRACE org.example.CarsDBRepository 89 add - Saved 1 instances
+11 Mar 2025 19:21:31,063 TRACE org.example.CarsDBRepository 95 add - Exit
+11 Mar 2025 19:21:31,063 TRACE org.example.CarsDBRepository 120 findAll - Enter
+11 Mar 2025 19:21:31,063 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 19:21:31,063 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@69997e9d)
+11 Mar 2025 19:21:31,066 TRACE org.example.CarsDBRepository 142 findAll - Exit with([Id=1 Tesla Model X 2022, Id=2 Tesla Model S 2019, Id=3 Ford Mustang 1969, Id=4 Tesla Model S 2019, Id=5 Ford Mustang 1969, Id=6 Tesla Model S 2019])
+11 Mar 2025 19:21:31,067 TRACE org.example.CarsDBRepository 22 findByManufacturer - Enter Finding cars by manufacturer: Tesla
+11 Mar 2025 19:21:31,068 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 19:21:31,068 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@69997e9d)
+11 Mar 2025 19:21:31,069 TRACE org.example.CarsDBRepository 45 findByManufacturer - Exit with([Id=1 Tesla Model X 2022, Id=2 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=6 Tesla Model S 2019])
+11 Mar 2025 19:21:31,069 TRACE org.example.CarsDBRepository 81 add - Enter saving taks: Id=0 Ford Mustang 1969
+11 Mar 2025 19:21:31,069 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 19:21:31,070 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@69997e9d)
+11 Mar 2025 19:21:31,071 TRACE org.example.CarsDBRepository 89 add - Saved 1 instances
+11 Mar 2025 19:21:31,071 TRACE org.example.CarsDBRepository 95 add - Exit
+11 Mar 2025 19:21:31,071 TRACE org.example.CarsDBRepository 100 update - Enter Updating car with id: 1, new values: Id=0 Tesla Model X 2022
+11 Mar 2025 19:21:31,071 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 19:21:31,071 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@69997e9d)
+11 Mar 2025 19:21:31,072 TRACE org.example.CarsDBRepository 109 update - Updated 1 instances
+11 Mar 2025 19:21:31,072 TRACE org.example.CarsDBRepository 115 update - Exit
+11 Mar 2025 19:21:31,072 TRACE org.example.CarsDBRepository 120 findAll - Enter
+11 Mar 2025 19:21:31,072 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 19:21:31,072 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@69997e9d)
+11 Mar 2025 19:21:31,073 TRACE org.example.CarsDBRepository 142 findAll - Exit with([Id=1 Tesla Model X 2022, Id=2 Tesla Model S 2019, Id=3 Ford Mustang 1969, Id=4 Tesla Model S 2019, Id=5 Ford Mustang 1969, Id=6 Tesla Model S 2019, Id=7 Ford Mustang 1969])
