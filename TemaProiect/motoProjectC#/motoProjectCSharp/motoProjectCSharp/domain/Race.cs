@@ -6,12 +6,14 @@ public class Race : Entity<long>
 {
     public string Name { get; set; }
     public long EngineSize { get; set; }
-    public long ParticipantNumber { get; set; }
-    public List<Participant> Participants { get; set; } = new List<Participant>();
+    public string Date {get; set; }
+    public List<Participant> Participants { get; set; }
 
-    public Race(long id, long engineSize, long participantNumber) : base(id)
+    public Race(long id, string name, long engineSize, string date, List<Participant> participants) : base(id)
     {
+        Name = name;
         EngineSize = engineSize;
-        ParticipantNumber = participantNumber;
+        Date = date;
+        Participants = participants;
     }
 }

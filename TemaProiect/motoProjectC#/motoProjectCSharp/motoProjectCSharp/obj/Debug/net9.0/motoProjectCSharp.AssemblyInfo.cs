@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("motoProjectCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd7aa642d215812ae2af5c1641b6b1df1190e322")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c44c17f1404b2ca6c03c0d19567722a8a28e9945")]
 [assembly: System.Reflection.AssemblyProductAttribute("motoProjectCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("motoProjectCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
